@@ -1,0 +1,34 @@
+body{
+    background-color: lightgrey;
+}
+.fa{
+    color: skyblue;
+}
+span{
+    font-size: 13px;
+    margin:15px 1px;
+}
+a{
+    border-bottom:1px solid blue;
+    
+}
+.boxpart{
+    background-color: white;
+    padding:60px 1px;
+    margin:30px 1px;  
+}
+.main{
+    margin: 20px 1px;
+}
+.box{
+    padding:50px 1px;
+}
+nav{
+   text-align:center;
+    font-size:60px;
+    margin:15px;
+   background-color:azure
+}
+
+
+
